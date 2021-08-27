@@ -1,0 +1,16 @@
+{
+    "name": "mylaravelextension",
+    "displayName": "MyLaravelExtension",
+    "description": "Laravel Extension Packgace",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "Jun Han.Auto Rename Tag",
+        ""
+    ]
+}
