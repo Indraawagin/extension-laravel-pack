@@ -10,7 +10,17 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "Jun Han.Auto Rename Tag",
-        ""
+        "HookyQR.Beautify",
+        "Felix Becker,PHP Debug",
+        "Ben Mewburn,PHP Intelephense",
+        "EditorConfig,EditorConfig for VS Code",
+        "mikestead,DotENV",
+        "Winnie Lin,Laravel Blade Snippets",
+        "Winnie Lin,Laravel Snippets",
+        "Ryan Naddy,Laravel Artisan",
+        "codingyu,Laravel goto view",
+        "amir,Laravel Extra Intellisense",
+        "stef-k,laravel-goto-controller",
+        "Austen Cameron,Laravel Blade Spacer"
     ]
 }
