@@ -11,18 +11,19 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "HookyQR.Beautify",
-        "Felix Becker,PHP Debug",
-        "Ben Mewburn,PHP Intelephense",
-        "EditorConfig,EditorConfig for VS Code",
-        "mikestead,DotENV",
-        "Winnie Lin,Laravel Blade Snippets",
-        "Winnie Lin,Laravel Snippets",
-        "Ryan Naddy,Laravel Artisan",
-        "codingyu,Laravel goto view",
-        "amir,Laravel Extra Intellisense",
-        "stef-k,laravel-goto-controller",
-        "Austen Cameron,Laravel Blade Spacer"
+        "hookyqr.beautify",
+        "felixfbecker.php-debug",
+        "bmewburn.vscode-intelephense-client",
+        "editorconfig.editorconfig",
+        "mikestead.DotENV",
+        "onecentlin.laravel-blade",
+        "onecentlin.laravel5-snippets",
+        "ryannaddy.laravel-artisan",
+        "codingyu.laravel-goto-view",
+        "amiralizadeh9480.laravel-extra-intellisense",
+        "stef-k.laravel-goto-controller",
+        "shufo.vscode-blade-formatter",
+        "austenc.laravel-blade-spacer"
     ],
     "repository": {
        "type": "git",
