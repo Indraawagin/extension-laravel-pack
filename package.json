@@ -3,6 +3,7 @@
     "displayName": "MyLaravelExtension",
     "description": "Laravel Extension Packgace",
     "version": "0.0.1",
+    "publisher": "Indraawagin",
     "engines": {
         "vscode": "^1.59.0"
     },
@@ -26,6 +27,6 @@
     "repository": {
        "type": "git",
        "url": "https://github.com/Indraawagin/extension-laravel-pack.git"
-    },
+    }
 
 }
